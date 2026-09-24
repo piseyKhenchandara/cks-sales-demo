@@ -32,12 +32,12 @@
 ### Visit Submission & History
 ![Visit Demo](visit_demo.gif)
 
-### Admin Dashboard & Goal Tracking
-![Admin Demo](admin_side_demo.gif)
 
 ### Homepage, Goals & Profile
 ![Homepage & Goals](demo_homepage_goal_profile.gif)
 
+### Admin Dashboard & Goal Tracking
+![Admin Demo](admin_side_demo.gif)
 ---
 
 ## Features
